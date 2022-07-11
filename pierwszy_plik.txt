@@ -2,3 +2,6 @@ Hej
  To zaczynamy naukê Gita v.2
 dodamy tekst nr 2
  Lubiê warzywa: pomidory i ogórki
+
+Dodajmy jeszcze roœlinki
+ Zróbmy zmiany w pliku pierwszym aby by³o widac to co jest zmienia ne
